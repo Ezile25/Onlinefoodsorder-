@@ -14,9 +14,9 @@ onlinefoods: The primary dataset used for this analysis is the onlinefoods.csv f
 ### Data Cleaning/Preparation 
 In the initial data preparation phase, I performed the following tasks:
 
--Data loading and inspection
+-Removed duplicates
 
--Data cleaning and formatting
+-Removed unnecessary columns
 
 ### Exploratory Data Analysis
 EDA provided valuable insights into the demographics and behaviors of online food users
