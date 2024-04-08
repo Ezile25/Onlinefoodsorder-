@@ -34,17 +34,17 @@ Outliers: The presence of outliers, such as a 25-year-old with a family size of 
 Age: The dataset's age distribution shows a median age of 24, ranging from 18 to 32 years old. The mean age is 24.63 years, with a standard deviation of about 2.1 years.
 Family Size: The average family size among online food users is 3.3, with a standard deviation of 1.35. The median family size is 3, with a range of 5.
 
-### Gender Distribution Analysis
+### Gender Distribution 
 This Bar chart shows that there are more males using the online foods platform than females. 
 
 ![Gender Bar chart](https://github.com/Ezile25/Onlinefoodsorder-/assets/117213552/d8adf44e-c7c4-4a80-8507-bce69ac74f7a)
 
-### Age Distribution Analysis
+### Age Distribution
 This Box and whisker reveals that online food users are predominantly young, with the majority falling between 18 and 32 years old. 
 
 ![Box and whisker plot](https://github.com/Ezile25/Onlinefoodsorder-/assets/117213552/48e5fd18-2832-48a7-a8ad-876566a1ea20)
 
-### Relationship between Age and Family Size Analysis
+### Relationship between Age and Family Size 
 
 The lack of a strong relationship between age and family size among online food users indicates that age may not be a significant factor influencing family size when it comes to online food services.
 
