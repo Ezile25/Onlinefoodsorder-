@@ -72,6 +72,15 @@ If I had to redo this assignment, I'd utilize seaborn or matplotlib to create vi
 
 In terms of gaps in my programming or stats knowledge. I want to get better at using Python libraries that are made for analyzing data. Studying statistical functions in Python will help me understand statistical concepts better. I want to learn how to deal with data that has missing values. This includes cleaning up the data and filling in any missing information, so that the results of my analysis are accurate and trustworthy.
 
+### Recommendations
+It’s important for onlinefoodorder to analyze customer feedback to identify areas that need to be improved in service quality. This could mean making deliveries faster, offering more food choices, or making it easier to order food online. Making these changes could make customers happier and more likely to keep using our services.
+
+Forecast consumer preferences or behaviour by utilising geography and demographic data. To predict future trends and adjust offerings appropriately, this may entail examining historical ordering patterns. By using predictive analytics, you may provide more individualised services and remain ahead of client requests. 
+
+Constant Trend Analysis and Adjustment: As the online meal delivery industry is always changing, it's critical to keep an eye on consumer preferences and industry trends. To remain competitive in the market, make frequent updates to your product offers and marketing plans based on the most recent information and insights.
+
+
+
 
 
 
